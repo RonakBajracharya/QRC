@@ -1,10 +1,8 @@
-﻿a simple implementation of newhope key exchange along with aes along with classical euclidian factorization and shors algorithm with quantum fourier transform
-code inside PyNewHope directory
-Utils.py
-client.py
+a simple implementation of newhope key exchange along with aes along with classical euclidian factorization and shors algorithm with quantum fourier transform
+files are as follows
+utils.py
 server.py
+client.py
 factorization.py
 shors.py
-
-the rest are required libraries and dependencies
-
+the rest are essential libraries and dependencies
